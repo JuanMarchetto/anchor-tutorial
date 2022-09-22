@@ -1,3 +1,3 @@
-# Draw With Frens
+# Macrame Colaborativo
 
 TODO: write readme!
